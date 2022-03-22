@@ -18,7 +18,7 @@ async function createBusStops() {
     const busStop = await getBusStops();
     busStop.forEach((stop, i) => {
         allStops[i] = new mapboxgl.Marker({
-            color: '#FFA500',
+            color: '#FFA500'
         })
         .setLngLat([-71.03867885945147, 42.35007028512333])
         .addTo(map);
