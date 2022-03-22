@@ -8,3 +8,6 @@ After loading this program onto your machine, you can either follow the API docu
 
 ## Potential Future Updates
 A couple of improvements I will be looking to make are to add a GPS feature or to add arrival times if a specific bus stop is clicked.
+
+## License
+Starter files were provided by MIT (Massachusetts Institute of Technology). 
